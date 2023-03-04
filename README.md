@@ -1,6 +1,6 @@
 <h3>💙 Olá, meu nome é Paulo!</h3>
 <p> 💻 | Atualmente trabalho como Desenvolvedor web frontend
-<p> ✉ | Você pode entrar em contato comigo através do meu <a href="https://instagram.com/pauloo.dev"/>Email
+<p> ✉ | Você pode entrar em contato comigo através das minhas redes sociais elas estão alí em baixo!
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
