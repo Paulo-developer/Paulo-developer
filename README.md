@@ -1,6 +1,6 @@
 <h3>💙 Olá, meu nome é Paulo!</h3>
 <p>💻 | Sou desenvolvedor web frontend e apaixonado por tecnologia desde o finalzinho de 2019!
-<p> ✉ | Você pode entrar em contato comigo através das minhas redes sociais elas estão alí em baixo!
+<p> ✉ | Você pode entrar em contato comigo através das minhas redes sociais elas estão lá embaixo!
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=tokyonight"/>
