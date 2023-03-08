@@ -2,8 +2,7 @@
 <p>💻 | Sou desenvolvedor web frontend e apaixonado por tecnologia desde o finalzinho de 2019!<div>
   <hr>
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-developer=compact&langs_count=16&theme=tokyonight"/>
+    <img height="180em" width="90vw" src="https://github-readme-stats.vercel.app/api?username=Paulo-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   <h3>Entre em contato comigo</h3>
   <a href="https://www.linkedin.com/in/antonio-paulo-74615025b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
