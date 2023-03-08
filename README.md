@@ -3,7 +3,7 @@
   <hr>
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-developer=compact&langs_count=16&theme=tokyonight"/>
 </div>
   <h3>Entre em contato comigo</h3>
   <a href="https://www.linkedin.com/in/antonio-paulo-74615025b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
